@@ -4,6 +4,8 @@ public class Operacao {
 	public final int CREDITO = 0;
 	public final int DEBITO = 1;
 
+	System.out.println("Editado");
+
 	private int dia;
     private int mes;
     private int ano;
@@ -77,4 +79,5 @@ public class Operacao {
 	                  valorOperacao;
 		return(line);
 	}
+
 }
