@@ -4,7 +4,7 @@ public class Operacao {
 	public final int CREDITO = 0;
 	public final int DEBITO = 1;
 
-	System.out.println("Editado");
+	System.out.println("Editado por Pedro");
 
 	private int dia;
     private int mes;

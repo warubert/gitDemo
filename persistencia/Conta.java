@@ -5,6 +5,8 @@ public class Conta {
 	private String correntista;
 	private double saldo;
 
+	//Editado por william
+
 	public Conta(int umNumero, String umNome) {
 		numero = umNumero;
 		correntista = umNome;
